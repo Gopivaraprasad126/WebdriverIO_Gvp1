@@ -10,7 +10,7 @@ await $('[name="q"]').setValue('webdriverIO')
 
 browser.keys('Enter')
 
-browser.pause(2000)
+browser.pause(4000)
 
 })
 })
